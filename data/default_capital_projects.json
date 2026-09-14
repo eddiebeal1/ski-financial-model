@@ -1,0 +1,86 @@
+[
+  {
+    "name": "High-Speed Detachable Quad Lift Replacement",
+    "category": "lift",
+    "total_cost": 8500000,
+    "start_year_offset": 0,
+    "duration_years": 1,
+    "expected_annual_revenue_impact": 900000,
+    "expected_annual_opex_impact": 50000,
+    "useful_life_years": 25,
+    "is_active": true,
+    "description": "Replace aging fixed-grip triple with a high-speed quad to reduce lift lines and improve capacity."
+  },
+  {
+    "name": "Snowmaking System Expansion",
+    "category": "snowmaking",
+    "total_cost": 4200000,
+    "start_year_offset": 0,
+    "duration_years": 1,
+    "expected_annual_revenue_impact": 650000,
+    "expected_annual_opex_impact": 180000,
+    "useful_life_years": 15,
+    "is_active": true,
+    "description": "Extend automated snowmaking coverage to secure early/late season operating days."
+  },
+  {
+    "name": "Base Lodge Renovation & Expansion",
+    "category": "lodge",
+    "total_cost": 12000000,
+    "start_year_offset": 1,
+    "duration_years": 2,
+    "expected_annual_revenue_impact": 1400000,
+    "expected_annual_opex_impact": 300000,
+    "useful_life_years": 30,
+    "is_active": false,
+    "description": "Expand base lodge seating, F&B, and rental capacity to relieve peak-day congestion."
+  },
+  {
+    "name": "New Terrain Pod Development",
+    "category": "terrain",
+    "total_cost": 6000000,
+    "start_year_offset": 2,
+    "duration_years": 1,
+    "expected_annual_revenue_impact": 750000,
+    "expected_annual_opex_impact": 120000,
+    "useful_life_years": 20,
+    "is_active": false,
+    "description": "Glade and gladed-trail development to diversify terrain mix and attract advanced skiers."
+  },
+  {
+    "name": "Guest Services Technology Platform",
+    "category": "technology",
+    "total_cost": 1500000,
+    "start_year_offset": 0,
+    "duration_years": 1,
+    "expected_annual_revenue_impact": 300000,
+    "expected_annual_opex_impact": 60000,
+    "useful_life_years": 7,
+    "is_active": true,
+    "description": "RFID ticketing, dynamic pricing engine, and mobile app to improve yield management."
+  },
+  {
+    "name": "Slopeside Employee & Workforce Housing",
+    "category": "lodging",
+    "total_cost": 9000000,
+    "start_year_offset": 1,
+    "duration_years": 2,
+    "expected_annual_revenue_impact": 0,
+    "expected_annual_opex_impact": -250000,
+    "useful_life_years": 30,
+    "is_active": false,
+    "description": "Employee housing to reduce turnover/overtime costs and secure seasonal staffing."
+  },
+  {
+    "name": "Grid Resilience & Utility Infrastructure Upgrade",
+    "category": "infrastructure",
+    "total_cost": 3000000,
+    "start_year_offset": 0,
+    "duration_years": 1,
+    "expected_annual_revenue_impact": 0,
+    "expected_annual_opex_impact": -80000,
+    "useful_life_years": 25,
+    "is_active": true,
+    "description": "Power infrastructure upgrades to support snowmaking/lift electrification and reduce outages."
+  }
+]
